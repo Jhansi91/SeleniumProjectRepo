@@ -15,6 +15,7 @@ public class SoftAssertTest {
 		System.out.println("step4");
 		sa.assertAll();
 		//pushing changes
+		//pulling changes
 	}
 
 }
