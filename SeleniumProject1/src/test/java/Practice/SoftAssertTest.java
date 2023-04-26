@@ -14,6 +14,7 @@ public class SoftAssertTest {
 		sa.assertAll();
 		//pushing changes
 		//pulling changes
+		//jenkin push
 	}
 
 }
